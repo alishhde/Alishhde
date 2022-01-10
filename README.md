@@ -12,16 +12,11 @@
 - 📫 How to reach me: ali.shhde00@gmail.com
 
 <div>
-  <img width=400 height=225 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alishhde&show_icons=true&locale=en&layout=compact" alt="alishhde" />
+  <a href="https://github.com/alishhde/github-readme-stats">
+  <img width=400 height=225 align="left" src="https://github-readme-stats.vercel.app/api?username=alishhde&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+  </a>
   <img width=400 height=225 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alishhde&" alt="alishhde" />
 </div>
-
-<div>
-  <a href="https://github.com/alishhde/github-readme-stats">
-  <img width=600 height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=alishhde&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-  </a>
-</div>
-
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
