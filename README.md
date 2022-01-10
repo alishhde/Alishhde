@@ -24,11 +24,13 @@
 
 - 📫 How to reach me: ali.shhde00@gmail.com
 
-<div>
-  <a href="https://github.com/alishhde/github-readme-stats">
-  <img width=400 height=225 align="left" src="https://github-readme-stats.vercel.app/api?username=alishhde&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-  </a>
-  <img width=400 height=225 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alishhde&" alt="alishhde" />
+----
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github Stats</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=alishhde&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/alishhde)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=alishhde&theme=material-palenight)](https://github.com/alishhde)
 </div>
 
 ----
