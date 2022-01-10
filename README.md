@@ -13,9 +13,9 @@
 
 <div>
   <a href="https://github.com/alishhde/github-readme-stats">
-  <img width=430 height=225 align="left" src="https://github-readme-stats.vercel.app/api?username=alishhde&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img width=400 height=225 align="left" src="https://github-readme-stats.vercel.app/api?username=alishhde&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
   </a>
-  <img width=430 height=225 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alishhde&" alt="alishhde" />
+  <img width=400 height=225 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alishhde&" alt="alishhde" />
 </div>
 
 <div>
