@@ -15,17 +15,9 @@
   <a href="https://github.com/alishhde/github-readme-stats">
   <img width=450 height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=alishhde&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
   </a>
-<!--   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alishhde&show_icons=true&locale=en&layout=compact" alt="alishhde" /> -->
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=alishhde&" alt="alishhde" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=alishhde&" alt="alishhde" />
 </div>
 
-## My activities
-
-
-<a href="https://github.com/alishhde/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishhde&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>
-
 <div>
-  <img src="https://github.com/alishhde/alishhde/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
