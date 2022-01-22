@@ -4,6 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/alishhde/)](https://www.instagram.com/alishhde)
 [![Github](https://img.shields.io/github/followers/alishhde?label=Follow&style=social)](https://github.com/alishhde)
 
+![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
 <p align="center">
   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
@@ -11,7 +12,6 @@
 
 <h1 align="center">Hi, I'm Ali Shohadaee<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate programmer and a student from Iran.</h3>
-
 
 
 - 💻 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://github.com/alishhde/Alishhde/blob/main/resources/img/geek.gif"/>
@@ -41,4 +41,4 @@
 </p>
 
 ------
-<!--  Thanks to Hejazizo, Elnaza -->
+<!--  Thanks to Hejazizo, Elnaza, thesaravanakumar -->
