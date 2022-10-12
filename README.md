@@ -16,7 +16,7 @@
 
 - 💻 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://github.com/alishhde/Alishhde/blob/main/resources/img/geek.gif"/>
 <!-- - 🤔 -->
-- 👨‍💻 All of my projects are available [@Alishhde](github.com/alishhde) and my CV [Website](https://alishhde.github.io/)
+- 👨‍💻 All of my projects are available [@Alishhde](https://github.com/alishhde/) and my CV [Website](https://alishhde.github.io/)
 
 - 🌱 I teach Python, IoT, Git, etc. 
 
