@@ -24,7 +24,6 @@
 
 - 📫 How to reach me: alishohadaeolhosseini@gmail.com
 
-----
 <!--
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github Stats</h2> 
@@ -33,12 +32,12 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=alishhde&theme=material-palenight)](https://github.com/alishhde)
 </div>
 -->
-----
 
+<!--
 <p align="center">
   <img  src="https://raw.githubusercontent.com/alishhde/alishhde/main/resources/img/github-contribution-grid-snake.svg"
     alt="snake" />
-</p>
+</p>-->
 
 ------
 <!--  Thanks to Hejazizo, Elnaza, thesaravanakumar -->
