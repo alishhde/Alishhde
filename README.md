@@ -18,7 +18,7 @@
 
 - 🌱 I teach Python, IoT, Git, etc. 
 
-- ⚡ Remember **What doesn't KILL you makes you STRONGER** and **DREAMS REALLY DO COME TRUE**
+- ⚡ **What doesn't KILL you makes you STRONGER** - **DREAMS REALLY DO COME TRUE**
 
 - 📫 How to reach me: alishohadaeolhosseini@gmail.com
 
